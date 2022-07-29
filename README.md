@@ -2,5 +2,5 @@
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/vZQ0s2HK/click-counter.png' border='0' alt='click-counter'/></a>
 
-# Getting Started with Create React App
+---
 
